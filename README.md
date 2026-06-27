@@ -7,7 +7,7 @@ A full-stack MERN application for booking home services with secure online payme
 ## Live Demo
 
 🌐 Frontend: https://service-booking-platform-w8.vercel.app/  
-⚙ Backend: https://service-booking-platform-w8.onrender.com/
+⚙ Backend: https://service-booking-platform-p2.onrender.com
 
 ---
 
